@@ -8,5 +8,6 @@ import {name as appName} from './app.json';
 import Exercise5 from './Exercise5';
 import Exercise6 from './Exercise6';
 import Exercise7 from './Exercise7';
+import App from './App';
 
-AppRegistry.registerComponent(appName, () => Exercise6);
+AppRegistry.registerComponent(appName, () => App);
